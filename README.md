@@ -9,7 +9,7 @@ results — even in low-connectivity environments.
 
 | Repository         | Description                                                                  | Link                                               | Technology                                                    |
 |--------------------|------------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------|
-| tfasoft-backend/   | Core API, data models, consensus logic for the TFASOFT platform              | https://github.com/tfa-elections/tfasoft-backend   | Grails 6.2.3 (Groovy/Java)                                    |
+| tfasoft-backend/   | Core API, data models, consensus logic for the TFASOFT platform              | https://github.com/tfa-elections/tfasoft-backend   | Grails 5.2.3 (Groovy/Java)                                    |
 | tfasoft-android/   | Native Android application for result submission and real time visualization | https://github.com/tfa-elections/tfasoft-android   | Kotlin                                                        |
 | tfasoft-ios/       | Native iOS application for result submission and real time visualization     | https://github.com/tfa-elections/tfasoft-ios       | Swift                                                         |
 | tfasoft-web/       | Public results dashboard (real-time visualization)                           | https://github.com/tfa-elections/tfasoft-web       | React.js                                                      |
